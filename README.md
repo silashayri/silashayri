@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Silas Hayri</h1>
-<h3 align="center">Developer in Test</h3>
+<h1 align="center">Hi 👋, I'm Silas</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=silashayri&label=Profile%20views&color=0e75b6&style=flat" alt="silashayri" /> </p>
 
