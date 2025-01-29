@@ -1,5 +1,5 @@
 # 💫 About Me:
- iOS Developer
+ iOS Developer | Sr. QA
 
 
 ## 🌐 Socials:
