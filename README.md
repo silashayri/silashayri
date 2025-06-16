@@ -1,6 +1,9 @@
 # 💫 About Me:
  iOS Developer | Sr. QA
 
+## 👨🏻‍💻 Contributions:
+[![Open Collective Contributor](https://opencollective.com/silas-h/contributors.svg)](https://opencollective.com/silas-h)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/silashayri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@silashayri) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7929516) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/silashayri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@silashayri) 
 
